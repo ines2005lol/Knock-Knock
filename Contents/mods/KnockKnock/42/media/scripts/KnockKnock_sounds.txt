@@ -1,0 +1,54 @@
+module Base
+{
+    sound KnockKnock_Knock
+    {
+        category = Player,
+        loop = false,
+        is3D = true,
+        clip
+        {
+            file = media/sound/KnockKnock_Knock.ogg,
+            distanceMax = 15,
+            volume = 0.8,
+        }
+    }
+
+    sound KnockKnock_Bang
+    {
+        category = Player,
+        loop = false,
+        is3D = true,
+        clip
+        {
+            file = media/sound/KnockKnock_Bang.ogg,
+            distanceMax = 30,
+            volume = 1.0,
+        }
+    }
+
+    sound KnockKnock_Tap
+    {
+        category = Player,
+        loop = false,
+        is3D = true,
+        clip
+        {
+            file = media/sound/KnockKnock_Tap.ogg,
+            distanceMax = 12,
+            volume = 0.7,
+        }
+    }
+
+    sound KnockKnock_Thump
+    {
+        category = Zombie,
+        loop = false,
+        is3D = true,
+        clip
+        {
+            file = media/sound/KnockKnock_Thump.ogg,
+            distanceMax = 20,
+            volume = 0.9,
+        }
+    }
+}

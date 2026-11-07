@@ -1,0 +1,6 @@
+name=[B42] Knock Knock
+id=KnockKnock
+author=
+poster=poster.png
+description=Knock on a closed door to hear if anything is inside. Zombies that hear you may answer... or stay silent. Knocking makes a little noise.
+versionMin=42.0.0

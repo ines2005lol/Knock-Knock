@@ -1,0 +1,6 @@
+version=1
+id=3835665444
+title=Knock Knock
+description=Knock Knock lets you knock on closed doors and tap on windows to hear if something is waiting on the other side. Zombies inside may answer with thumps on the door. Or they may stay silent.
+tags=Build 42;Audio;Realistic;QoL
+visibility=friendsOnly
