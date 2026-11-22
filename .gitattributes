@@ -1,0 +1,6 @@
+# Keep text files with LF line endings everywhere (no CRLF warnings on Windows)
+* text=auto eol=lf
+
+# Never touch binary files
+*.png binary
+*.ogg binary
