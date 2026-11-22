@@ -2,6 +2,8 @@
 
 ![Knock Knock preview](preview.png)
 
+**[Get it on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3835665444)**
+
 A **Project Zomboid Build 42** mod that lets you knock on closed doors and tap on windows to hear if something is waiting on the other side.
 
 Zombies inside may answer with thumps on the door. Or they may stay silent... and silence isn't always proof the room is empty.
@@ -46,7 +48,7 @@ Found in **Options > Mods > Knock Knock**.
 
 ## Installation
 
-**From Steam Workshop:** subscribe to *[B42] Knock Knock* (Workshop ID `3835665444`), then enable it in **Mods** from the main menu.
+**From Steam Workshop:** subscribe to [*[B42] Knock Knock*](https://steamcommunity.com/sharedfiles/filedetails/?id=3835665444), then enable it in **Mods** from the main menu.
 
 **Manually:** copy `Contents/mods/KnockKnock` into `C:\Users\<you>\Zomboid\mods\`, then enable it in **Mods**.
 
